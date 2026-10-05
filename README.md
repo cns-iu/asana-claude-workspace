@@ -53,3 +53,7 @@ The read-only share links show the workspace ID, not the project ID.
 ```json
 "my-project": { "title": "My Project", "gid": "1234567890" }
 ```
+
+## License
+
+[MIT](LICENSE)
