@@ -1,0 +1,11 @@
+# Credentials
+.env
+
+# Per-user configuration and output
+projects.json
+data/
+reports/
+
+# Editor and Python cruft
+.vscode/
+__pycache__/
