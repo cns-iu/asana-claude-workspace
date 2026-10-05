@@ -13,7 +13,7 @@ At the end you'll have a daily Markdown report of the tasks in the Asana project
 ## 1. Clone the repository
 
 ```bash
-git clone <repository-url> asana-claude-workspace
+git clone https://github.com/cns-iu/asana-claude-workspace.git asana-claude-workspace
 cd asana-claude-workspace
 ```
 
